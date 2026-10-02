@@ -114,3 +114,19 @@
 **Primary Bartle Type:** Achievers
 
 **Secondary Bartle Type:** Explorers
+
+
+
+
+# PART C · BLOCK OUT FIVE LEVELS
+
+---
+
+
+## Level 01
+
+
+<img width="1437" height="727" alt="Screenshot 2026-10-01 031551" src="https://github.com/user-attachments/assets/22a411bd-c741-45fb-83e5-250d02e75428" />
+
+
+**Idea & Wayfinding:** A basic linear blockout featuring a $3\text{m}$ corridor navigation with neon emission floor strips guiding players from spawns to goals.
