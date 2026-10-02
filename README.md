@@ -123,10 +123,19 @@
 ---
 
 
-## Level 01
+## Level 01 -Simple path lead to goal
 
 
 <img width="1437" height="727" alt="Screenshot 2026-10-01 031551" src="https://github.com/user-attachments/assets/22a411bd-c741-45fb-83e5-250d02e75428" />
 
 
 **Idea & Wayfinding:** A basic linear blockout featuring a $3\text{m}$ corridor navigation with neon emission floor strips guiding players from spawns to goals.
+
+
+
+
+## Level 02 - Branching Paths & Side Chamber
+<img width="1626" height="840" alt="Screenshot 2026-10-02 172004" src="https://github.com/user-attachments/assets/cb92babb-384a-40d9-8be2-be5a6bef0fa9" />
+
+
+**Idea & Wayfinding:** A split-path branching layout starting from a dual-spawn chamber, leading through an $L$-shaped bend with a $3\text{m}$ dark hazard pit required to be jumped over to reach Goal 1, a second route leading directly to Goal 2, and an unlit side chamber filled with greybox props for exploration.
