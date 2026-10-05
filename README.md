@@ -139,3 +139,11 @@
 
 
 **Idea & Wayfinding:** A split-path branching layout starting from a dual-spawn chamber, leading through an $L$-shaped bend with a $3\text{m}$ dark hazard pit required to be jumped over to reach Goal 1, a second route leading directly to Goal 2, and an unlit side chamber filled with greybox props for exploration.
+
+## Level 03 - Multi-Room Navigation & Exploration Chamber
+
+<img width="1511" height="820" alt="image" src="https://github.com/user-attachments/assets/d17f5e95-a4db-4251-b12a-f9b1241a5537" />
+
+
+
+**Idea & Wayfinding:** A multi-chamber layout featuring a blue spawn point connected via a purple neon path to guide players straight to the green goal area, alongside a dedicated greenery-filled side room designed purely for environment exploration.
