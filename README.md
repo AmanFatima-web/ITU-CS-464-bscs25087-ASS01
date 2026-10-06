@@ -147,3 +147,13 @@
 
 
 **Idea & Wayfinding:** A multi-chamber layout featuring a blue spawn point connected via a purple neon path to guide players straight to the green goal area, alongside a dedicated greenery-filled side room designed purely for environment exploration.
+
+## Level 04: Building Blockout & Navigation
+<img width="1177" height="792" alt="image" src="https://github.com/user-attachments/assets/6aa20359-2730-4eb0-9fcf-94def357359a" />
+
+
+**Idea & wayfinding:** This level features a modular city blockout designed with two distinct spawn points that guide agents through high-rise structures and urban alleyways using glowing neon paths. Agents navigate central environmental obstacles, including plazas and rock formations, to follow their respective emissive routes directly to their designated goals.
+## Level 05:  Jungle theme Blockout
+<img width="1746" height="837" alt="image" src="https://github.com/user-attachments/assets/cfdfbb00-dff5-4b98-ab0c-131e3097d87f" />
+
+**Idea & Wayfinding:** This Level consists of 6 distinct layout zones connected by a central pathway system. The player traverses through each layout along dedicated paths to locate two hidden green goal boxes. If a goal box is not found in a specific section, the player backtracks along the connected path to move into the next layout zone to continue searching for the goals until he finds both green boxes.
